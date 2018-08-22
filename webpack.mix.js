@@ -12,12 +12,6 @@ let mix = require('laravel-mix');
  */
 
 mix
-   .styles([
-   			"public/admin/assets/vendor_components/bootstrap/dist/css/bootstrap.css",
-		    "public/admin/assets/vendor_components/font-awesome/css/font-awesome.css",
-		    "public/admin/assets/vendor_components/Ionicons/css/ionicons.css",
-		    "public/admin/css/master_style.css",
-		    "public/admin/css/skins/_all-skins.css",
-   			], 'public/css/admin/sample.min.css')
+   .sass('public/admin/sass/pages/sample.min.scss','public/css/admin')
    .js("public/admin/js/pages/sample.js", 'public/js/admin/sample.min.js')
    ;
