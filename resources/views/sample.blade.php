@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/admin/images/favicon.ico">
     <title>Bonito Admin - Dashboard Blank Page </title>
-    <link rel="stylesheet" type="text/css" href="/css/admin/home.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/admin/sample.min.css">
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -747,6 +747,6 @@
         <!-- Add the sidebar's background. This div must be placed immediately after the control sidebar -->
         <div class="control-sidebar-bg"></div>
     </div>
-    <script src="/js/admin/home.min.js"></script>
+    <script src="/js/admin/sample.min.js"></script>
 </body>
 </html>
