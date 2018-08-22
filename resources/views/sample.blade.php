@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- Mirrored from html-templates.multipurposethemes.com/bootstrap-4/admin/bonito-admin-templates/pages/examples/blank.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 20 Feb 2018 06:30:48 GMT -->
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
